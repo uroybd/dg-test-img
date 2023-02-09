@@ -5,6 +5,9 @@
 # Van Gogh on Art and Artists: Letters to Emile Bernard
 ##### Van Gogh, Vincent
 
+
+![Tech Tree](/img/user/tech-tree.png)
+
 ## VI - ARLES: MID-JUNE 1888
 
 ### Highlight (yellow) - Location 609
