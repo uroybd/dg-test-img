@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal/test-doc/","title":"Zen Poetry","tags":["poetry","literature","buddhism","zen","gardenEntry","gardenEntry"],"maturity":2}
+{"dg-publish":true,"permalink":"/personal/test-doc/","title":"Zen Poetry","tags":["poetry","literature","buddhism","zen","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"maturity":2}
 ---
 
 ![Loyality Club.png](/img/user/Media/Loyality%20Club.png)
