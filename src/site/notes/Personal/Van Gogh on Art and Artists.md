@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal/van-gogh-on-art-and-artists/","title":"Van Gogh on Art and Artists: Letters to Emile Bernard by Vincent Van Gogh","tags":["letters","classic","art"],"maturity":3}
+{"dg-publish":true,"permalink":"/personal/van-gogh-on-art-and-artists/","title":"Van Gogh on Art and Artists: Letters to Emile Bernard by Vincent Van Gogh","tags":["letters","classic","art"],"created":"2022-10-07T04:28:29+06:00","updated":"2022-10-09T04:17:36+06:00"}
 ---
 
 # Van Gogh on Art and Artists: Letters to Emile Bernard
