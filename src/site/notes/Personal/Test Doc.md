@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal/test-doc/","title":"Zen Poetry","tags":["poetry","literature","buddhism","zen","gardenEntry","gardenEntry"],"created":"2021-09-02T16:50:00+06:00","updated":"2023-01-02T00:59:50+06:00"}
+{"dg-publish":true,"permalink":"/personal/test-doc/","title":"Zen Poetry","tags":["poetry","literature","buddhism","zen","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"created":"2021-09-02T16:50:00+06:00","updated":"2023-01-02T00:59:50+06:00"}
 ---
 
 ![Loyality Club.png](/img/user/Media/Loyality%20Club.png)
