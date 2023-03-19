@@ -8,4 +8,4 @@ Nothing much is happening in my life right now. Works are being done in the most
 
 The month is ending and I'm looking forward to the next month (Why? Salary maybe.), and the delivery of my e-reader about what I'm very much skeptical.
 
-Testing linking integrity [[Personal/Journal/Days of Balloons\|Days of Balloons]].
+Testing linking integrity [[Journal/Days of Balloons\|Days of Balloons]].
