@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal/the-poetry-of-zen-by-sam-hamill-j-p-seaton/","title":"The Poetry of Zen by Sam Hamill, J.P. Seaton","tags":["poetry","asia","chinese","japanese"],"created":"2022-06-28T20:08:13+06:00","updated":"2023-01-06T02:07:32+06:00"}
+{"dg-publish":true,"dg-path":"Test/Path/Zen Poetry.md","permalink":"/test/path/zen-poetry/","title":"The Poetry of Zen by Sam Hamill, J.P. Seaton","tags":["poetry","asia","chinese","japanese"],"created":"2022-06-28T20:08:13+06:00","updated":"2023-01-06T02:07:32+06:00"}
 ---
 
 
