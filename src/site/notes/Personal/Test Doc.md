@@ -1,6 +1,15 @@
 ---
-{"dg-publish":true,"dg-path":"Personal/Test Doc.md","permalink":"/personal/test-doc/","title":"Zen Poetry","tags":["poetry","literature","buddhism","zen","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"created":"2021-09-02T16:50:00+06:00","updated":"2023-01-02T00:59:50+06:00"}
+{"dg-publish":true,"dg-path":"Personal/Test Doc.md","permalink":"/personal/test-doc/","title":"Zen Poetry","tags":["poetry","literature","buddhism","zen","gardenEntry","gardenEntry"],"created":"2021-09-02T16:50:00+06:00","updated":"2023-01-02T00:59:50+06:00"}
 ---
+
+| Title                                                                                                                                               | Tags                                               | Updated                                                   | Created                                                   |
+| --------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------------- |
+| [[Personal/The Poetry of Zen by Sam Hamill, J.P. Seaton\|The Poetry of Zen by Sam Hamill, J.P. Seaton]]                                          | #poetry #asia #chinese #japanese                   | <center><small>Jan 06, 2023<hr/>02:07 am</small></center> | <center><small>Jun 28, 2022<hr/>08:08 pm</small></center> |
+| [[Personal/Narrow Road to the Interior and Other Writings\|Narrow Road to the Interior and Other Writings by Matsuo Bashō, (trans. Sam Hamill)]] | #japanese #travelog #autobiography #classic #okkay | <center><small>Jan 02, 2023<hr/>11:11 pm</small></center> | <center><small>Jun 26, 2021<hr/>12:28 pm</small></center> |
+| [[Journal/General Entry 0000\|General Entry 0000]]                                                                                      | #জীবন                                              | <center><small>Dec 14, 2022<hr/>04:38 pm</small></center> | <center><small>Jan 23, 2019<hr/>11:00 am</small></center> |
+| [[Journal/Days of Balloons\|Days of Balloons]]                                                                                          | #life #childhood #mono-no-aware                    | <center><small>Dec 14, 2022<hr/>04:36 pm</small></center> | <center><small>Dec 22, 2021<hr/>04:09 pm</small></center> |
+| [[Personal/Van Gogh on Art and Artists\|Van Gogh on Art and Artists: Letters to Emile Bernard by Vincent Van Gogh]]                              | #letters #classic #art                             | <center><small>Oct 09, 2022<hr/>04:17 am</small></center> | <center><small>Oct 07, 2022<hr/>04:28 am</small></center> |
+
 
 ![Loyality Club.png](/img/user/Media/Loyality%20Club.png)
 Art essentially is a matter of attachment. An attachment that connects one to the very depth of the world.[^1] Zen, on the other hand, is a practice of detachment. When they met in the atmosphere of Asian aesthetics they have created a genre with blends of various flavours. Exploring Zen poetry is like taking a journey through your existential crisis.
