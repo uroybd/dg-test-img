@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Projects/Eldale Creek/Sanktae_eldale.md","permalink":"/projects/eldale-creek/sanktae-eldale/","title":"Sanktae","created":"","updated":""}
+{"category":"Projects/Eldale Creek","date":"2022-11-14","description":"Les Sanktae sont des êtres dont les pouvoirs apparaît sous forme de contrôle de la lumière, et vivant en théocratie à Eminenthis, une cité indépendante dans les Alpes françaises.","dg-path":"Projects/Eldale Creek/Sanktae_eldale.md","dg-publish":true,"display":"Sanktae","share":true,"title":"Sanktae","type":"Notes","permalink":"/projects/eldale-creek/sanktae-eldale/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 
