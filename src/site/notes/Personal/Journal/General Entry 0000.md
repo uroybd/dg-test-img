@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Journal/General Entry 0000.md","permalink":"/journal/general-entry-0000/","title":"General Entry 0000","tags":["জীবন"],"created":"2019-01-23T11:00:13+06:00","updated":"2022-12-14T16:38:22+06:00"}
+{"weather":"night","mood":"happy","updated":"2022-12-14T16:38:22+06:00","tags":["জীবন"],"title":"General Entry 0000","created":"2019-01-23T11:00:13+06:00","dg-publish":true,"dg-path":"Journal/General Entry 0000.md","permalink":"/journal/general-entry-0000/","dgPassFrontmatter":true}
 ---
 
 In this month, I've read a lot more than I did in the previous year. I'm feeling content about it.
