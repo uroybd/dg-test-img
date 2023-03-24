@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Personal/Test Doc.md","permalink":"/personal/test-doc/","title":"Zen Poetry","tags":["poetry","literature","buddhism","zen","gardenEntry","gardenEntry"],"created":"2021-09-02T16:50:00+06:00","updated":"2023-01-02T00:59:50+06:00"}
+{"title":"Zen Poetry","updated":"2023-01-02T00:59:50+06:00","tags":["poetry","literature","buddhism","zen","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"created":"2021-09-02T16:50:00+06:00","dg-publish":true,"dg-home":true,"dg-maturity":2,"dg-path":"Personal/Test Doc.md","permalink":"/personal/test-doc/","dgPassFrontmatter":true}
 ---
 
 | Title                                                                                                                                               | Tags                                               | Updated                                                   | Created                                                   |
@@ -10,6 +10,7 @@
 | [[Personal/Journal/Days of Balloons\|Days of Balloons]]                                                                                          | #life #childhood #mono-no-aware                    | <center><small>Dec 14, 2022<hr/>04:36 pm</small></center> | <center><small>Dec 22, 2021<hr/>04:09 pm</small></center> |
 | [[Personal/Van Gogh on Art and Artists\|Van Gogh on Art and Artists: Letters to Emile Bernard by Vincent Van Gogh]]                              | #letters #classic #art                             | <center><small>Oct 09, 2022<hr/>04:17 am</small></center> | <center><small>Oct 07, 2022<hr/>04:28 am</small></center> |
 | [[10. PROJECT/Eldale Creek/Mnémosyne/Snaketae_eldale\|Sanktae]]                                                                                  |                                                    | \-                                                        | \-                                                        |
+| [[10. PROJECT/REFs/Ashlin\|Ashlin]]                                                                                                              |                                                    | \-                                                        | \-                                                        |
 
 
 ![Loyality Club.png](/img/user/Media/Loyality%20Club.png)
