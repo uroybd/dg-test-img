@@ -1,5 +1,5 @@
 ---
-{"category":"Compendium/Ashling May","date":"2021-06-12","dg-path":"Compendium/Ashling May/Pouvoirs_Ashling.md","dg-publish":true,"folder":"Compendium","name":"Pouvoirs_Ashling","share":true,"tag":["Ashling-May/Référence","RP/Fiche","Pouvoir","Futuriste"],"title":"Pouvoirs","type":"Pouvoir","permalink":"/compendium/ashling-may/pouvoirs-ashling/","dgPassFrontmatter":true,"created":"","updated":""}
+{"category":"Compendium/Ashling May","date":"2021-06-12","dg-path":"Compendium/Ashling May/Pouvoirs_Ashling.md","dg-publish":true,"folder":"Compendium","name":"Pouvoirs_Ashling","share":true,"state":"❌","tag":["Ashling-May/Référence","RP/Fiche","Pouvoir","Futuriste"],"title":"Pouvoirs","type":"Pouvoir","permalink":"/compendium/ashling-may/pouvoirs-ashling/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 
