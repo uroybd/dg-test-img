@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Test/Path/Zen Poetry.md","permalink":"/test/path/zen-poetry/","title":"The Poetry of Zen by Sam Hamill, J.P. Seaton","tags":["poetry","asia","chinese","japanese"],"created":"2022-06-28T20:08:13+06:00","updated":"2023-01-06T02:07:32+06:00"}
+{"title":"The Poetry of Zen by Sam Hamill, J.P. Seaton","updated":"2023-01-06T02:07:32+06:00","created":"2022-06-28T20:08:13+06:00","latitude":23.7908,"longitude":90.4109,"altitude":0,"tags":["poetry","asia","chinese","japanese"],"dg-publish":true,"dg-path":"Test/Path/Zen Poetry.md","permalink":"/test/path/zen-poetry/","dgPassFrontmatter":true}
 ---
 
 
