@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Compendium/Ashling May/Ashling May.md","permalink":"/compendium/ashling-may/ashling-may/","created":"","updated":""}
+{"dg-path":"Compendium/Ashling May/Ashling May.md","dg-publish":true,"permalink":"/compendium/ashling-may/ashling-may/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 
