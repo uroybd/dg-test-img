@@ -1,5 +1,5 @@
 ---
-{"title":"Van Gogh on Art and Artists: Letters to Emile Bernard by Vincent Van Gogh","updated":"2022-10-09T04:17:36+06:00","created":"2022-10-07T04:28:29+06:00","latitude":21.30876167,"longitude":92.04272667,"altitude":-74.6,"tags":["letters","classic","art"],"dg-maturity":3,"dg-publish":true,"dg-path":"Personal/Van Gogh on Art and Artists.md","permalink":"/personal/van-gogh-on-art-and-artists/","dgPassFrontmatter":true}
+{"title":"Van Gogh on Art and Artists: Letters to Emile Bernard by Vincent Van Gogh","updated":"2022-10-09T04:17:36+06:00","created":"2022-10-07T04:28:29+06:00","latitude":21.30876167,"longitude":92.04272667,"altitude":-74.6,"tags":["letters","classic","art"],"dg-maturity":3,"dg-publish":true,"permalink":"/personal/van-gogh-on-art-and-artists/","dgPassFrontmatter":true}
 ---
 
 # Van Gogh on Art and Artists: Letters to Emile Bernard
@@ -13,6 +13,8 @@
 ### Highlight (yellow) - Location 609
 
 More and more it seems to me that the pictures which must be painted to make present- day painting completely itself and raise it to a height equal to the serene peaks which were attained by the Greek sculptors, the German musicians, and the French novelists, are beyond the power of one isolated individual. They will therefore probably
+{ #cd243f}
+
 
 ## VII - ARLES: ABOUT 20TH JUNE 1888
 
