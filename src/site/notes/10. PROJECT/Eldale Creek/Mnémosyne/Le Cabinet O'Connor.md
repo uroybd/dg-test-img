@@ -23,10 +23,21 @@ Généralement :
 - [[10. PROJECT/Eldale Creek/Wiki/PJ/Mnémosyne Mémoria\|Mnémosyne Mémoria]] s'occupe des personne disparue, recherchée, complément d'enquête mais aussi assurance ; elle est un peu la miss à tout faire du cabinet
 - [[10. PROJECT/Eldale Creek/Wiki/Tertiaire/Alazée O'Connor\|Alazée O'Connor]] est avocate et s'occupe des affaires de droits, abus et fraude
 - [[10. PROJECT/Eldale Creek/Wiki/Tertiaire/Jake O'Connor\|Jake O'Connor]] s'occupe des primes, filatures et sécurité
----
-{"category":"Projects/Eldale Creek","cssclass":"novelist","date":"2022-12-22","description":"Informations à propos du cabinet O'Connor, le rôle de chaque membre de ce cabinet, ce qu'ils font en règle général, mais aussi les affaires sur lesquels ils ont travaillé.","dg-path":"Projects/Eldale Creek/Le Cabinet O'Connor.md","dg-publish":true,"links":false,"share":true,"title":"Le Cabinet O'Connor","type":"notes","permalink":"/projects/eldale-creek/le-cabinet-o-connor/","dgPassFrontmatter":true,"created":"","updated":""}
+
 ---
 
+# Responsabilité
+
+- Recueillir des preuves, notamment des preuves concrètes et physiques pouvant être utilisées devant les tribunaux, dans le cadre d'audiences légales et d'autres procédures judiciaires.
+- Vérifier les informations telles que les adresses des individus, les numéros de téléphone, l'identité des employeurs et des membres de la famille ; effectuer un travail de vérification et de comparaison avec des données détenues par l'administration.
+- Effectuer des recherches approfondies en se servant de bases de données en ligne telles que les procédures judiciaires et les dossiers publics.
+- Recueillir et analyser des données et tirer des conclusions à partir de preuves ou d'indices factuels.
+- Interroger des témoins, des experts et d'autres personnes concernées afin de recueillir des témoignages, des indices et d'autres informations supplémentaires.
+- Mener une surveillance, avec les limites d'un simple citoyen et sans aucune des prérogatives d'un agent de police afin d'étoffer toutes les informations recueillies lors de recherches et d'entretiens.
+- Suivre des suspects et témoins, surveiller leur domicile ou leur lieu de travail, prendre des photos ou des enregistrements vidéo afin de pouvoir les utiliser comme preuves.
+- Agir dans les limites autorisées par la loi, notamment en s'abstenant de se faire passer pour un représentant des forces de l'ordre.
+
+---
 # Historique des affaires
 
 
