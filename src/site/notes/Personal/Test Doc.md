@@ -1,5 +1,5 @@
 ---
-{"title":"Zen Poetry","updated":"2023-01-02T00:59:50+06:00","tags":["poetry","literature","buddhism","zen","gardenEntry"],"created":"2021-09-02T16:50:00+06:00","dg-home":true,"dg-maturity":2,"dg-publish":true,"permalink":"/personal/test-doc/","dgPassFrontmatter":true}
+{"title":"Zen Poetry","updated":"2023-01-02T00:59:50+06:00","tags":["poetry","literature","buddhism","zen","gardenEntry","gardenEntry"],"created":"2021-09-02T16:50:00+06:00","dg-home":true,"dg-maturity":2,"dg-publish":true,"permalink":"/personal/test-doc/","bodyClasses":"","dgPassFrontmatter":true}
 ---
 
 ![[Test Canvas.canvas]]
