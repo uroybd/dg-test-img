@@ -1,5 +1,5 @@
 ---
-{"category":"Projects/Eldale Creek","cssclass":"novelist","date":"2022-12-22","description":"Informations à propos du cabinet O'Connor, le rôle de chaque membre de ce cabinet, ce qu'ils font en règle général, mais aussi les affaires sur lesquels ils ont travaillé.","dg-path":"Projects/Eldale Creek/Le Cabinet O'Connor.md","dg-publish":true,"links":false,"share":true,"title":"Le Cabinet O'Connor","type":"notes","permalink":"/projects/eldale-creek/le-cabinet-o-connor/","dgPassFrontmatter":true,"created":"","updated":""}
+{"category":"Projects/Eldale Creek","cssclass":"novelist","date":"2022-12-22","description":"Informations à propos du cabinet O'Connor, le rôle de chaque membre de ce cabinet, ce qu'ils font en règle général, mais aussi les affaires sur lesquels ils ont travaillé.","dg-path":"Projects/Eldale Creek/Le Cabinet O'Connor.md","dg-publish":true,"links":false,"share":true,"title":"Le Cabinet O'Connor","type":"notes","permalink":"/projects/eldale-creek/le-cabinet-o-connor/","bodyClasses":"","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 
