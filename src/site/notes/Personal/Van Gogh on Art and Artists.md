@@ -1,5 +1,5 @@
 ---
-{"title":"Van Gogh on Art and Artists: Letters to Emile Bernard by Vincent Van Gogh","updated":"2022-10-09T04:17:36+06:00","created":"2022-10-07T04:28:29+06:00","latitude":21.30876167,"longitude":92.04272667,"altitude":-74.6,"tags":["letters","classic","art"],"dg-maturity":3,"dg-publish":true,"dg-body-classes":["dg-test-class","another-test-class"],"permalink":"/personal/van-gogh-on-art-and-artists/","bodyClasses":"dg-test-class another-test-class","dgPassFrontmatter":true}
+{"title":"Van Gogh on Art and Artists: Letters to Emile Bernard by Vincent Van Gogh","updated":"2022-10-09T04:17:36+06:00","created":"2022-10-07T04:28:29+06:00","latitude":21.30876167,"longitude":92.04272667,"altitude":-74.6,"tags":["letters","classic","art"],"dg-maturity":3,"dg-publish":true,"dg-content-classes":["dg-test-class","another-test-class"],"permalink":"/personal/van-gogh-on-art-and-artists/","contentClasses":"dg-test-class another-test-class","dgPassFrontmatter":true}
 ---
 
 # Van Gogh on Art and Artists: Letters to Emile Bernard
